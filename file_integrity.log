@@ -1,0 +1,3 @@
+2024-02-28 20:24:56,449 - WARNING - El archivo archivo_2.txt ha sido modificado. Se restaurará desde el backup.
+2024-02-28 20:24:58,742 - WARNING - El archivo archivo_3.txt no se ha encontrado en el directorio. Se restaurará desde el backup.
+2024-02-28 20:24:59,475 - WARNING - El archivo archivo_3.txt ha sido modificado. Se restaurará desde el backup.

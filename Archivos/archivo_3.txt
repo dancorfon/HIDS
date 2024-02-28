@@ -1,0 +1,4 @@
+Este es un ejemplo de archivo de texto.
+Puedes escribir aqu� lo que desees.
+
+Este es el archivo n�mero 3.

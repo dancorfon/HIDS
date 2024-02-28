@@ -1,0 +1,13 @@
+Informe de verificación de integridad:
+Fecha y hora: 2024-02-28 18:45:30
+Número de alertas: 2
+Número de archivos verificados: 4
+Porcentaje de aciertos: 50.00%
+
+Alertas detectadas:
+Nombre del archivo: archivo_2.txt
+Ruta del archivo: C:/Users/danie/OneDrive/Desktop/SSI/PAI 1/Archivos/archivo_2.txt
+
+Nombre del archivo: archivo_3.txt
+Ruta del archivo: C:/Users/danie/OneDrive/Desktop/SSI/PAI 1/Archivos/archivo_3.txt
+

@@ -1,0 +1,4 @@
+Este es un ejemplo de archivo de texto.
+Puedes escribir aquí lo que desees.
+
+Este es el archivo número 48.

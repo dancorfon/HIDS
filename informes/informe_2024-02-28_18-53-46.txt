@@ -1,0 +1,6 @@
+Informe de verificación de integridad:
+Fecha y hora: 2024-02-28 18:53:46
+Número de alertas: 0
+Número de archivos verificados: 4
+Porcentaje de aciertos: 100.00%
+
