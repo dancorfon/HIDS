@@ -1,0 +1,10 @@
+Informe de verificación de integridad:
+Fecha y hora: 2024-02-29 21:06:16
+Número de alertas: 1
+Número de archivos verificados: 2
+Porcentaje de aciertos: 50.00%
+
+Alertas detectadas:
+Nombre del archivo: archivo_2.txt
+Ruta del archivo: C:/Users/raulm/OneDrive/Documentos/Seguridad US/HIDS/Archivos/archivo_2.txt
+
